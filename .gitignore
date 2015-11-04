@@ -1,0 +1,4 @@
+html_output/*.css
+html_output/*.html
+html_output/*.js
+pages/*.md
